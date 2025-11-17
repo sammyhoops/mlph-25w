@@ -3,3 +3,4 @@ sheet03/data/design_matrix.npy
 __pycache__/
 # Ignore large data files
 sheet03/data/design_matrix.npy
+__pycache__/
